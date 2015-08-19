@@ -1,0 +1,14 @@
+Name: CFA
+Dialog-Specs: CFA.spd
+Summary: Configural Frequency Analysis (after von Eye and Krauth)
+Description: Dialog to perform a Configural Frequency Analysis. This i
+ s a method to test if there are significantly more (or less) cell fre
+ quencies in a cross table than expected. Tests available: z-values (s
+ tandardized residuals) and asymptotic binomial. The dialog can handle
+  sampling and structural zeros.
+Author: Dr. Hans Grüner (http://gruener.userpage.fu-berlin.de)
+Version: 6.3.0
+Product-Version: 18
+Date: 17.12.2014
+Categories: binomial, dialog, graphics, plots, residuals, statistics, 
+ tables, tests, z-values
