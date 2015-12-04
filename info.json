@@ -2,7 +2,7 @@
  "type": [ "Extension" ],
 "provider": [ "Community" ],
 "software": [ "SPSS Statistics" ],
-"language": [ "SPSS" ],
+"language": [ "Native product" ],
 "category": [ "Analysis" ],
 "promotion": [ "No" ] 
 }
