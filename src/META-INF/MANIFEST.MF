@@ -1,4 +1,5 @@
 Name: CFA
+Display-Name: Configural Frequency Analysis
 Dialog-Specs: CFA.spd
 Summary: Configural Frequency Analysis (after von Eye and Krauth)
 Description: Dialog to perform a Configural Frequency Analysis. This i
